@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Simple Calc</string>
+	
+	<!--Button Text -->
+	<string name="about_ok_button">OK</string>
+	<string name="ce">CE</string>
+	<string name="clear">Clear</string>
+	<string name="plus">+</string>
+	<string name="minus">-</string>
+	<string name="multiply">x</string>
+	<string name="devide">÷</string>
+	<string name="equal">=</string>
+	<string name="decimal_point">.</string>
+	<string name="one">1</string>
+	<string name="two">2</string>
+	<string name="three">3</string>
+	<string name="four">4</string>
+	<string name="five">5</string>
+	<string name="six">6</string>
+	<string name="seven">7</string>
+	<string name="eight">8</string>
+	<string name="nine">9</string>
+	<string name="zero">0</string>
+	<string name="share">Share</string>
+	<string name="about">About</string>
+	<string name="rate">Rate</string>
+	
+	
+	
+	
+	<string name="share_text">Check out the Simple Calc App that I built at SoCalCodeCamp. https://play.google.com/store/apps/details?id=com.joshdobbs.calculator</string>	
+	<string name="about_text">Developed by &lt;a href="http://www.joshdobbs.com/">Josh Dobbs&lt;/a> for the Build your First Android App Sessions given at So Cal Code Camp on June 23rd at UC San Diego.
+        &lt;br>&lt;br>Patch 9 images used for the buttons were obtained from the &lt;a href="https://play.google.com/store/apps/details?id=com.android9patch.viewern">Android 9 Patch Viewer App&lt;/a> developed by Richard L.
+        &lt;br>&lt;br>Simple Calc uses the &lt;a href="http://projects.congrace.de/exp4j/">exp4j&lt;/a> library to perform all math calculations. 
+		&lt;br>&lt;br>Session slides and source code are available at &lt;a href="http://www.joshdobbs.com/">blog.JoshDobbs.com&lt;/a>
+		&lt;br>&lt;br>Josh Dobbs makes Android Apps in his spare time for fun...
+		&lt;br>&lt;a href="https://market.android.com/details?id=com.joshuadobbs.rudedroid">FartDroid&lt;/a>
+		&lt;br>&lt;a href="https://market.android.com/details?id=com.neatofun.spinandsayfree/">Spin and Say - Animals and Colors&lt;/a>
+		&lt;br>&lt;a href="https://market.android.com/details?id=com.neatofun.moo">Moo!&lt;/a>
+		&lt;br>&lt;a href="https://market.android.com/details?id=com.neatofun.executioner">Executor&lt;/a>
+		</string>
+</resources>

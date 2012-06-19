@@ -1,0 +1,7 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android" 
+     android:constantSize="true"
+     android:dither="false">
+     <item android:state_pressed="true"
+           android:drawable="@drawable/clear_entry_button_pressed" /> <!-- pressed -->
+     <item android:drawable="@drawable/clear_entry_button_default" /> <!-- default -->
+ </selector>
